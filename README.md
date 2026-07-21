@@ -76,7 +76,7 @@ marketing-discovery/
 ### 1. Склонируй
 
 ```bash
-git clone https://github.com/your-username/daily-discovery.git
+git clone https://github.com/terekhov8kirill/daily-discovery.git
 cd daily-discovery
 ```
 
@@ -277,17 +277,17 @@ daily-discovery/
 
 **[OpenCode](https://opencode.ai)** — AI-агентная среда выполнения. Вся магия происходит внутри неё.
 
-**[oh-my-openagent](https://opencode.ai/plugins/oh-my-openagent)** — плагин для OpenCode, который даёт навыки (skills), команды, субагентов и систему оркестрации. Без него не было бы ни `/daily-discovery`, ни скиллов.
+**[oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — плагин для OpenCode, который даёт навыки (skills), команды, субагентов и систему оркестрации. Без него не было бы ни `/daily-discovery`, ни скиллов.
 
-**[Tolaria](https://tolaria.com)** — Obsidian-совместимое приложение для заметок. Все инсайты сохраняются в Tolaria vault, но подойдёт любой Obsidian-совместимый инструмент.
+**[Tolaria](https://tolaria.app)** — Obsidian-совместимое приложение для заметок. Все инсайты сохраняются в Tolaria vault, но подойдёт любой Obsidian-совместимый инструмент.
 
-**[marketing-psychology skill](https://opencode.ai/skills/marketing-psychology)** (от OhMyOpenCode) — источник 72 принципов маркетинговой психологии, которые составляют основу Psyche-очереди.
+**[marketing-psychology skill](https://github.com/terekhov8kirill/daily-discovery)** — источник 72 принципов маркетинговой психологии, которые составляют основу Psyche-очереди. Устанавливается через OpenCode skills.
 
-**[last30days skill](https://opencode.ai/skills/last30days)** — поиск того, что люди реально обсуждают прямо сейчас (Reddit, X, YouTube, TikTok, HN). Используется для Pool D (discovery-режим Psyche).
+**[last30days skill](https://github.com/terekhov8kirill/daily-discovery)** — поиск того, что люди реально обсуждают прямо сейчас (Reddit, X, YouTube, TikTok, HN). Используется для Pool D (discovery-режим Psyche).
 
-**[agent-reach skill](https://opencode.ai/skills/agent-reach)** — доступ к 17 платформам через CLI. Потенциально используется для поиска обсуждений кампаний в соцсетях.
+**[agent-reach skill](https://github.com/terekhov8kirill/daily-discovery)** — доступ к 17 платформам через CLI. Потенциально используется для поиска обсуждений кампаний в соцсетях.
 
-**[Cognitive Bias Codex](https://www.visualcapitalist.com/cognitive-bias-codex/)** — основа для 24 внешних принципов в Pool C (POOL.md).
+**[Cognitive Bias Codex](https://www.visualcapitalist.com/every-single-cognitive-bias/)** — основа для 24 внешних принципов в Pool C (POOL.md).
 
 **[LBBOnline](https://lbbonline.com)**, **[AdWeek](https://www.adweek.com/creativity)**, **[ContentGrip](https://www.contentgrip.com)**, **[Muse by Clio](https://musebycl.io)** — источники свежих рекламных кейсов для Radar.
 
@@ -304,7 +304,7 @@ MIT — делай что хочешь, делись с друзьями, фор
 <div align="center">
   <p>Сделано с ❤️ и 🧠 для маркетологов, которые не хотят тупеть</p>
   <p>
-    <a href="https://github.com/your-username/daily-discovery/issues">Сообщить о проблеме</a> •
-    <a href="https://github.com/your-username/daily-discovery/discussions">Обсудить</a>
+    <a href="https://github.com/terekhov8kirill/daily-discovery/issues">Сообщить о проблеме</a> •
+    <a href="https://github.com/terekhov8kirill/daily-discovery/discussions">Обсудить</a>
   </p>
 </div>
