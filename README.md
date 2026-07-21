@@ -279,13 +279,13 @@ daily-discovery/
 
 **[oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — плагин для OpenCode, который даёт навыки (skills), команды, субагентов и систему оркестрации. Без него не было бы ни `/daily-discovery`, ни скиллов.
 
-**[Tolaria](https://tolaria.app)** — Obsidian-совместимое приложение для заметок. Все инсайты сохраняются в Tolaria vault, но подойдёт любой Obsidian-совместимый инструмент.
+**[Tolaria](https://tolaria.md)** — Obsidian-совместимое приложение для заметок. Все инсайты сохраняются в Tolaria vault, но подойдёт любой Obsidian-совместимый инструмент.
 
-**[marketing-psychology skill](https://github.com/terekhov8kirill/daily-discovery)** — источник 72 принципов маркетинговой психологии, которые составляют основу Psyche-очереди. Устанавливается через OpenCode skills.
+**[marketing-psychology skill](https://github.com/hosseinmirzapur/opencode-skills/tree/main/skills/marketing-psychology)** — источник 72 принципов маркетинговой психологии, которые составляют основу Psyche-очереди. Устанавливается через OpenCode skills.
 
-**[last30days skill](https://github.com/terekhov8kirill/daily-discovery)** — поиск того, что люди реально обсуждают прямо сейчас (Reddit, X, YouTube, TikTok, HN). Используется для Pool D (discovery-режим Psyche).
+**[last30days skill](https://github.com/mvanhorn/last30days-skill)** — поиск того, что люди реально обсуждают прямо сейчас (Reddit, X, YouTube, TikTok, HN). Используется для Pool D (discovery-режим Psyche).
 
-**[agent-reach skill](https://github.com/terekhov8kirill/daily-discovery)** — доступ к 17 платформам через CLI. Потенциально используется для поиска обсуждений кампаний в соцсетях.
+**[agent-reach skill](https://github.com/Panniantong/Agent-Reach)** — доступ к 17 платформам через CLI. Потенциально используется для поиска обсуждений кампаний в соцсетях.
 
 **[Cognitive Bias Codex](https://www.visualcapitalist.com/every-single-cognitive-bias/)** — основа для 24 внешних принципов в Pool C (POOL.md).
 
