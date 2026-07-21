@@ -277,11 +277,11 @@ daily-discovery/
 
 **[OpenCode](https://opencode.ai)** — AI-агентная среда выполнения. Вся магия происходит внутри неё.
 
-**[oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** — плагин для OpenCode, который даёт навыки (skills), команды, субагентов и систему оркестрации. Без него не было бы ни `/daily-discovery`, ни скиллов.
+**[oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** (OmO) — мульти-харнесная агентная OS: оркестрация 11+ агентов, Team Mode, ultrawork-цикл, 54+ lifecycle-хука, встроенные MCP, LSP, AST-grep. Работает поверх OpenCode, Codex CLI и других харнессов. Без него не было бы ни `/daily-discovery`, ни навыков, ни субагентов.
 
 **[Tolaria](https://tolaria.md)** — Obsidian-совместимое приложение для заметок. Все инсайты сохраняются в Tolaria vault, но подойдёт любой Obsidian-совместимый инструмент.
 
-**[marketing-psychology skill](https://github.com/hosseinmirzapur/opencode-skills/tree/main/skills/marketing-psychology)** — источник 72 принципов маркетинговой психологии, которые составляют основу Psyche-очереди. Устанавливается через OpenCode skills.
+**[marketing-psychology skill](https://github.com/coreyhaines31/marketingskills)** — источник 72 принципов маркетинговой психологии, которые составляют основу Psyche-очереди. Устанавливается через OpenCode skills.
 
 **[last30days skill](https://github.com/mvanhorn/last30days-skill)** — поиск того, что люди реально обсуждают прямо сейчас (Reddit, X, YouTube, TikTok, HN). Используется для Pool D (discovery-режим Psyche).
 
