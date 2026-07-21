@@ -1,0 +1,23 @@
+# Dotenv (user's vault path)
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Node (if any)
+node_modules/
+
+# OpenCode local
+.omo/
+.mimocode/
+
+# Logs
+*.log
